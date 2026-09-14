@@ -38,5 +38,5 @@ https://www.figma.com/design/6hgR72awEzET2hgLzmSTLu/FUEL-PASS-SYSTEM?node-id=0-1
 ## Team
 Farha Fuard - UX/UI & Figma 
 R.Anuja Geesara Karunarathna - React Development & Testing 
-Sanithu Kavithmal Dimunge - Research & Documentation 
+Ranithu Mihisara Dimunge - Research & Documentation 
 
