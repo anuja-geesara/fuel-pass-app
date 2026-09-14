@@ -36,7 +36,8 @@ https://fuel-pass-app.vercel.app/
 https://www.figma.com/design/6hgR72awEzET2hgLzmSTLu/FUEL-PASS-SYSTEM?node-id=0-1&t=84figy6LDrdojaUl-1
 
 ## Team
-Farha Fuard - UX/UI & Figma 
-R.Anuja Geesara Karunarathna - React Development & Testing 
-Ranithu Mihisara Dimunge - Research & Documentation 
+
+- Farha Fuard - UX/UI & Figma 
+- R.Anuja Geesara Karunarathna - React Development & Testing 
+- Ranithu Mihisara Dimunge - Research & Documentation 
 
