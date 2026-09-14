@@ -1,16 +1,45 @@
-# React + Vite
+# 🇱🇰 National Fuel Pass – UX Redesign
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A user-friendly redesign proposal prototype of the existing **Sri Lankan National Fuel Pass system**, developed as part of a UX Engineering project.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Citizen
+- Registration & Sign In
+- Vehicle Management
+- Fuel Quota & QR Fuel Pass
+- Find Fuel Stations
+- Transactions & Digital Receipts
+- English, Sinhala & Tamil support
 
-## React Compiler
+### Station Operator
+- Operator Login
+- QR Code Scanning
+- Manual Vehicle Number Entry
+- Vehicle & Quota Verification
+- Fuel Dispensing & Transaction Confirmation
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies
 
-## Expanding the Oxlint configuration
+- React + Vite
+- JavaScript
+- HTML/CSS
+- GitHub
+- Vercel
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Links
+
+**Live Application:**  
+https://fuel-pass-app.vercel.app/
+
+**Figma:**  
+https://www.figma.com/design/6hgR72awEzET2hgLzmSTLu/FUEL-PASS-SYSTEM?node-id=0-1&t=84figy6LDrdojaUl-1
+
+## Team
+
+| Name | Contribution |
+|---|---|---|
+| Farha Fuard | UX/UI & Figma |
+| R.Anuja Geesara Karunarathna | Research & Documentation |
+| Sanithu Kavithmal Dimunge | React Development & Testing |
+
